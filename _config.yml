@@ -23,9 +23,8 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Eastfrisian community builder, author of poetry, and books. Trying to support 
   the local eastfrisian region
-domain: sklock.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://soply.github.io/sklock.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 hash: 2394a9661a9089208c1c9c65ccac85a91da6a859
