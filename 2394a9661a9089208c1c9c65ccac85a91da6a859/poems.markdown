@@ -18,7 +18,7 @@ permalink: /2394a9661a9089208c1c9c65ccac85a91da6a859/poems
     <div class="row justify-content-center">
       <div class="col-md-auto">
         <h4> {{ poem.title }} </h4>
-        <h5> <i> am {{ poem.date | date: "%d.%m.%Y" }} veröffentlicht. </i> </h5>
+        <p> <i> am {{ poem.date | date: "%d.%m.%Y" }} veröffentlicht. </i> </p>
       </div>
     </div>
     <div class="row justify-content-center">

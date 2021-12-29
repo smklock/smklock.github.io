@@ -7,7 +7,7 @@ subtitle: " "
 <section class="background-black" id ="about">
   <div class="container new-content-block">
     <div class="row justify-content-center">
-      <h3> Über mich </h3>
+      <h3> Hintergrund </h3>
     </div>
     <div class="row vcenter">
       <div class="col-8 col-md-5 col-lg-4 offset-2 offset-md-0 offset-lg-1 image-container-center justify-content-center">
@@ -15,10 +15,27 @@ subtitle: " "
       </div>
       <div class="col-8 col-md-7 col-lg-6 offset-2 offset-md-0">
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque diam neque, suscipit sit amet accumsan non, tempus nec dui. Mauris metus est, tempor sed sem sed, posuere dictum arcu. Praesent cursus eros quis placerat facilisis. Phasellus lobortis eget libero nec aliquet. Fusce dolor ex, rutrum eu diam a, venenatis rhoncus purus. Maecenas pretium orci id dolor dignissim, nec imperdiet libero ultricies. Nullam ornare iaculis cursus. Duis in tortor porta odio hendrerit tristique. Donec non arcu magna. Duis ac scelerisque mi, at malesuada diam. Nam tempus efficitur tellus sit amet bibendum.
+          Mein Name ist Siegfried Klock und ich komme aus Ostrhauderfehn. Schon in jungen Jahren habe ich mich gerne mit Ostfriesland, der Geschichte unserer Heimat und Ahnenforschung beschäftigt. So erlernte ich auch einen traditionellen friesischen Beruf. Als Industrieschiffbauer verbrachte ich Lehre und einige Jahre als Facharbeiter auf der Jansen Werft in Leer. Nach dem Konkurs musste ich mich umorientieren und arbeite seit 1989 bis heute im Volkswagenwerk in Emden.
+          Meine Leidenschaft zum Friesischen, zur Plattdeutschen Sprache und zum Texten von Liedern und Gedichten in Hoch und Plattdeutsch, begleiten mich nun fast mein ganzes Leben.<br><br>
+          Nachdem ich viele Jahre Liedertexte für Interpreten aus der Region und darüber hinaus geschrieben habe, gründete ich 2010 die Facebook Gruppe
+          "Wi sünd Oostfreesen un dat mit Stolt" und 2018 die regionale Koch und Backgruppe" Leckerst un best van stolt Oostfreesen".
+          Beide Gruppen erfreuen sich einer steigenden Beliebtheit und so durften wir gemeinsam mit den Gruppen 2018 eine alte Tradition wieder aufleben. Zusätzlich gibt es die offizielle Seite der stolzen Ostfriesen, die ich alleine betreue und einen kleinen Shop, wo Artikel mit unserem Gruppen Logo erhältlich sind.<br><br>
         </p>
       </div>
     </div>
+    <div class="row vcenter justify-content-center">
+      <div class="col-8">
+        <p>
+          Mit der Firma Cloer Elektrogeräte aus Arnsberg wurde nach vielen Jahrzehnten, ohne,  wieder ein Neujahrskucheneisen mit Ostfriesland Wappen entwickelt und von Cloer produziert. Das ist bis dato auch das erste Gerät mit einer plattdeutschen Gebrauchsanweisung, die ich übersetzen durfte.
+          Ein Jahr später entstand eine Neujahrskuchentrommel mit Ostfriesland Wappen und den ostfriesischen Farben. Ebenfalls ein Rezeptbuch mit Rezepten von Gruppenmitgliedern der Facebook Gruppen wurde 2019 erstellt und gedruckt.<br><br>
+          Inspiriert von einigen Autoren der Facebookgruppen, schrieb ich dann 2019 meinen ersten Ostfriesland Krimi und 2021 meinen ersten Gedichteband.
+          Aktuell schreibe ich an der Fortsetzung meines ersten Ostfriesland Krimis und plane einen weiteren Gedichteband.
+          Heimatliebe ist eine ganz besondere Liebe, eine bleibende und ewige Verbindung. Sie lässt sich durch nichts erschüttern und ist Antrieb und Motor meiner Leidenschaft.<br><br>
+          Auf den folgenden Seiten stelle ich euch meine Bücher, ein paar Bilder und Gedichte vor. Ich freue mich auf euer Feedback, dass Ihr mir gerne per Mail senden dürft.
+        </p>
+      </div>
+    </div>
+    
   </div>
 </section>
 
@@ -86,9 +103,9 @@ subtitle: " "
     <div class="row d-flex justify-content-center pb-3">
       <div class="col-12 col-md-10 col-lg-8">
         <h3 class="mb-4"> Ostfriesland in Schrift und Bild </h3>
-        <p class="text-center">
+        <!-- <p class="text-center">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque diam neque, suscipit sit amet accumsan non, tempus nec dui. Mauris metus est, tempor sed sem sed, posuere dictum arcu. Praesent cursus eros quis placerat facilisis. Phasellus lobortis eget libero nec aliquet. Fusce dolor ex, rutrum eu diam a, venenatis rhoncus purus. Maecenas pretium orci id dolor dignissim, nec imperdiet libero ultricies. Nullam ornare iaculis cursus. Duis in tortor porta odio hendrerit tristique. Donec non arcu magna. Duis ac scelerisque mi, at malesuada diam. Nam tempus efficitur tellus sit amet bibendum.
-        </p>
+        </p> -->
       </div>
     </div>
     <div class="row d-flex justify-content-center">

@@ -1,8 +1,10 @@
 ---
-title: "Häuptlingstod am Upstalsboom: <br> Der etwas andere ostfriesischer Krimi"
+title: Häuptlingstod am Upstalsboom
 subtitle:
 link: https://www.bod.de/buchshop/haeuptlingstod-am-upstalsboom-siegfried-klock-9783751982894
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque diam neque, suscipit sit amet accumsan non, tempus nec dui. Mauris metus est, tempor sed sem sed, posuere dictum arcu. Praesent cursus eros quis placerat facilisis. Phasellus lobortis eget libero nec aliquet. Fusce dolor ex, rutrum eu diam a, venenatis rhoncus purus. Maecenas pretium orci id dolor dignissim, nec imperdiet libero ultricies. Nullam ornare iaculis cursus. Duis in tortor porta odio hendrerit tristique. Donec non arcu magna. Duis ac scelerisque mi, at malesuada diam. Nam tempus efficitur tellus sit amet bibendum.
 image: cover_hauptlings.png
 position: 1
 ---
+Mit dem Ostfriesland Krimi "Häuptlingstod am Upstalsboom" betrat ich 2019 persönliches Neuland. Nachdem ich bis dato Gedichte und Liedertexte schrieb, inspirierte mich ein besonderes Ereignis zum Schreiben dieses regionalen Krimis.<br>
+Die Charaktere der meisten Protagonisten im Krimi wurden mit Admins der beiden Facebook Gruppen besetzt. Die Geschichte eng an die beiden Gruppen angelehnt und das Thema eng an die Neuauflage des Neujahrskucheneisens mit Ostfriesland Wappen. Ich wollte diese Geschichte unbedingt aufschreiben, um einen spannenden Kurzkrimi daraus zu kreiiren. Viele nette Rückmeldungen durfte ich bisher dazu erfahren. Darum entschloss ich mich zu einer Fortsetzung, an der ich aktuell arbeite.<br>
+Der Krimi basiert somit auf einen realen Backround und wirkt in seiner Schnelllebigkeit des Geschehens nie langweilig. Der Leser wird hin un hergeschoben, ohne ruhige Phasen im Krimi. Nebenbei werden aber viele Sehenswürdigkeiten in Ostfriesland kurz beschrieben. Es ist also auch eine kleine Reise durch unsere wunderschöne Heimat.
