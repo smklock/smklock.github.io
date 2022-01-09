@@ -127,11 +127,11 @@ subtitle: " "
         </div>
       </div>
       <div class="col-sm-12 col-md-4 col-lg-3 align-middle justify-content-center mb-4">
-        <div class="hover-image" style="cursor: pointer;" onclick="window.location='{{ site.baseurl }}/{{ site.hash }}';"> 
+        <div class="hover-image" style="cursor: pointer;" onclick="window.location='{{ site.baseurl }}/{{ site.hash }}/gallery';"> 
           <h4 class="row justify-content-center">
             Fotographie
           </h4>
-          <img class="mx-auto d-block personal-image" src="{{ site.baseurl }}/{{ site.hash }}/assets/images/ostfriesland_schaaf.jpg" alt="Foto Siegfried Klock">
+          <img class="mx-auto d-block personal-image" src="{{ site.baseurl }}/{{ site.hash }}/assets/images/title_image_fotographie.jpg" alt="Foto Siegfried Klock">
         </div>
       </div>
     </div>
