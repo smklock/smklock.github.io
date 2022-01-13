@@ -40,6 +40,10 @@ collections:
   social_media:
     order:
       - facebook_1.md
+      - facebook_2.md
+      - facebook_3.md
+      - instagram.md
+      - shop.md
   books:
     order:
       - hauptlingstod.md
