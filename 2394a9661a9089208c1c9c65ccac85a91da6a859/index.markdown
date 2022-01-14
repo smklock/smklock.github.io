@@ -11,7 +11,7 @@ subtitle: " "
     </div>
     <div class="row vcenter">
       <div class="col-8 col-md-5 col-lg-4 offset-2 offset-md-0 offset-lg-1 image-container-center justify-content-center">
-        <img class="mx-auto d-block personal-image" src="{{ site.baseurl }}/{{ site.hash }}/assets/images/siegfried_klock_2_remove_bg.png" alt="Foto Siegfried Klock">
+        <img class="mx-auto d-block personal-image" src="{{ site.baseurl }}/assets/images/siegfried_klock_2_remove_bg.png" alt="Foto Siegfried Klock">
       </div>
       <div class="col-8 col-md-7 col-lg-6 offset-2 offset-md-0">
         <p>
@@ -67,7 +67,7 @@ subtitle: " "
                 <div class="row vcenter text-center">
                   <div class="col-lg-12 col-xl-5 carousel-container">
                     <div class="container-md mb-3">
-                      <img class="sm-image img-responsive center-block" src="{{ site.baseurl }}/{{ site.hash }}/assets/images/{{ sm.image }}" alt="{{ sm.title }}">
+                      <img class="sm-image img-responsive center-block" src="{{ site.baseurl }}/assets/images/{{ sm.image }}" alt="{{ sm.title }}">
                     </div>
                   </div>
                   <div class="col-lg-12 col-xl-7">
@@ -112,27 +112,27 @@ subtitle: " "
     </div>
     <div class="row d-flex justify-content-center">
       <div class="col-sm-12 col-md-4 col-lg-3 align-middle justify-content-center mb-4">
-        <div class="hover-image" style="cursor: pointer;" onclick="window.location='{{ site.baseurl }}/{{ site.hash }}/books';">  
+        <div class="hover-image" style="cursor: pointer;" onclick="window.location='{{ site.baseurl }}/books';">  
           <h4 class="row justify-content-center">
             Bücher
           </h4>
-          <img class="mx-auto d-block personal-image" src="{{ site.baseurl }}/{{site.hash}}/assets/images/buecher.jpg" alt="Foto Siegfried Klock">
+          <img class="mx-auto d-block personal-image" src="{{ site.baseurl }}/assets/images/buecher.jpg" alt="Foto Siegfried Klock">
         </div>
       </div>
       <div class="col-sm-12 col-md-4 col-lg-3 align-middle justify-content-center mb-4">
-        <div class="hover-image" style="cursor: pointer;" onclick="window.location='{{ site.baseurl }}/{{ site.hash }}/poems';"> 
+        <div class="hover-image" style="cursor: pointer;" onclick="window.location='{{ site.baseurl }}/poems';"> 
           <h4 class="row justify-content-center">
             Gedichte
           </h4>
-          <img class="mx-auto d-block personal-image" src="{{ site.baseurl }}/{{site.hash}}/assets/images/siegfried_klock.jpg" alt="Foto Siegfried Klock">
+          <img class="mx-auto d-block personal-image" src="{{ site.baseurl }}/assets/images/siegfried_klock.jpg" alt="Foto Siegfried Klock">
         </div>
       </div>
       <div class="col-sm-12 col-md-4 col-lg-3 align-middle justify-content-center mb-4">
-        <div class="hover-image" style="cursor: pointer;" onclick="window.location='{{ site.baseurl }}/{{ site.hash }}/gallery';"> 
+        <div class="hover-image" style="cursor: pointer;" onclick="window.location='{{ site.baseurl }}/gallery';"> 
           <h4 class="row justify-content-center">
             Fotographie
           </h4>
-          <img class="mx-auto d-block personal-image" src="{{ site.baseurl }}/{{ site.hash }}/assets/images/title_image_fotographie.jpg" alt="Foto Siegfried Klock">
+          <img class="mx-auto d-block personal-image" src="{{ site.baseurl }}/assets/images/title_image_fotographie.jpg" alt="Foto Siegfried Klock">
         </div>
       </div>
     </div>

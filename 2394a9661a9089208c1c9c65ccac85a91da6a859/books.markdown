@@ -2,7 +2,7 @@
 layout: wrapper
 headline: " "
 subtitle: " "
-permalink: /2394a9661a9089208c1c9c65ccac85a91da6a859/books
+permalink: /books
 ---
 
 
@@ -17,7 +17,7 @@ permalink: /2394a9661a9089208c1c9c65ccac85a91da6a859/books
     <hr>
     <div class="row vcenter">
       <div class="col-8 col-md-5 col-lg-4 offset-2 offset-md-0 offset-lg-1 image-container-center justify-content-center">
-        <img class="mx-auto d-block personal-image" src="{{ site.baseurl }}/{{site.hash}}/assets/images/{{ book.image }}" alt="Foto {{ book.title }}">
+        <img class="mx-auto d-block personal-image" src="{{ site.baseurl }}/assets/images/{{ book.image }}" alt="Foto {{ book.title }}">
       </div>
       <div class="col-8 col-md-7 col-lg-6 offset-2 offset-md-0">
         <h4> {{ book.title }} </h4>

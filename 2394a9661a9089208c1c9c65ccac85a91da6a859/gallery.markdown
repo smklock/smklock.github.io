@@ -2,7 +2,7 @@
 layout: wrapper
 headline: " "
 subtitle: " "
-permalink: /2394a9661a9089208c1c9c65ccac85a91da6a859/gallery
+permalink: /gallery
 ---
 
 
@@ -19,7 +19,7 @@ permalink: /2394a9661a9089208c1c9c65ccac85a91da6a859/gallery
         {% for image in site.categories.images reversed %}
         <div class="col-12 col-md-6 col-lg-4">
           <div class="image-container-center">
-            <img class="mx-auto d-block" src="{{ site.baseurl }}/{{site.hash}}/assets/gallery/{{ image.name }}" width="300">
+            <img class="mx-auto d-block" src="{{ site.baseurl }}/assets/gallery/{{ image.name }}" width="300">
           </div>
           <div class="image-description text-center">
             {{ image.content }}

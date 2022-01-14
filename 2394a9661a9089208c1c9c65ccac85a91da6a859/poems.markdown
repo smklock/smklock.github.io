@@ -2,7 +2,7 @@
 layout: wrapper
 headline: " "
 subtitle: " "
-permalink: /2394a9661a9089208c1c9c65ccac85a91da6a859/poems
+permalink: /poems
 ---
 
 
