@@ -3,11 +3,12 @@ layout: wrapper
 headline: " "
 subtitle: " "
 ---
-
+<section id="bannerimage">
+</section>
 <section class="background-black" id ="about">
   <div class="container new-content-block">
     <div class="row justify-content-center">
-      <h3> Hintergrund </h3>
+      <h3> Über mich </h3>
     </div>
     <div class="row vcenter">
       <div class="col-8 col-md-5 col-lg-4 offset-2 offset-md-0 offset-lg-1 image-container-center justify-content-center">
