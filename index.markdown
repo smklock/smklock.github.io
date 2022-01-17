@@ -20,7 +20,7 @@ subtitle: " "
           Meine Leidenschaft zum Friesischen, zur Plattdeutschen Sprache und zum Texten von Liedern und Gedichten in Hoch und Plattdeutsch, begleiten mich nun fast mein ganzes Leben.<br><br>
           Nachdem ich viele Jahre Liedertexte für Interpreten aus der Region und darüber hinaus geschrieben habe, gründete ich 2010 die Facebook Gruppe
           "Wi sünd Oostfreesen un dat mit Stolt" und 2018 die regionale Koch und Backgruppe" Leckerst un best van stolt Oostfreesen".
-          Beide Gruppen erfreuen sich einer steigenden Beliebtheit und so durften wir gemeinsam mit den Gruppen 2018 eine alte Tradition wieder aufleben. Zusätzlich gibt es die offizielle Seite der stolzen Ostfriesen, die ich alleine betreue und einen kleinen Shop, wo Artikel mit unserem Gruppen Logo erhältlich sind.<br><br>
+          Beide Gruppen erfreuen sich einer steigenden Beliebtheit und so durften wir gemeinsam mit den Gruppen 2018 eine alte Tradition wieder aufleben. Zusätzlich gibt es die offizielle Seite der stolzen Ostfriesen, die ich alleine betreue, und einen kleinen Shop mit Logoartikeln, den mein Sohn betreibt.<br><br>
         </p>
       </div>
     </div>

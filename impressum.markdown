@@ -14,8 +14,8 @@ permalink: /impressum
     26842 Ostrhauderfehn <br> 
     </p>
     <p><strong>Kontakt:</strong> <br>
-    Telefon: 01234-789456<br>
-    E-Mail: <a href='mailto:a@b.de'>a@b.de</a></p>
+    Telefon: {{ site.phone }}<br>
+    E-Mail: {{ site.email }}</p>
     <p><strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong><br>
     Siegfried Klock <br> 
     Am Mittelweg 97<br> 
