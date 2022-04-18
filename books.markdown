@@ -13,7 +13,8 @@ permalink: /books
     <div class="row justify-content-center">
       <h3> Bücher </h3>
     </div>
-    {% for book in site.books %}
+    {% assign ordered_books = site.books | sort:"position" %}
+    {% for book in ordered_books %}
     <hr>
     <div class="row vcenter">
       <div class="col-8 col-md-5 col-lg-4 offset-2 offset-md-0 offset-lg-1 image-container-center justify-content-center">
@@ -25,9 +26,11 @@ permalink: /books
         <p>
           {{ book.content }}
         </p>
-        <p class="text-center">
-        <a href="{{ book.link }}"> Shop </a>
-        </p>
+        {% if book.link %}
+          <p class="text-center">
+          <a href="{{ book.link }}"> Shop </a>
+          </p>
+        {% endif %}
       </div>
     </div>
     {% endfor %}

@@ -45,6 +45,7 @@ collections:
       - shop.md
   books:
     order:
+      - hauptlingstod_2.md
       - hauptlingstod.md
       - poems.md
 
