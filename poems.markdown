@@ -13,7 +13,7 @@ permalink: /poems
     <div class="row justify-content-center">
       <h3> Gedichte </h3>
     </div>
-    {% for poem in site.categories.poems reversed %}
+    {% for poem in site.categories.poems %}
     <hr>
     <div class="row justify-content-center">
       <div class="col-md-auto">
