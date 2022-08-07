@@ -266,6 +266,7 @@ GEM
     unicode-display_width (1.8.0)
 
 PLATFORMS
+  universal-darwin-21
   x86_64-darwin-15
 
 DEPENDENCIES
@@ -276,4 +277,4 @@ DEPENDENCIES
   tzinfo-data
 
 BUNDLED WITH
-   2.2.28
+   2.3.19
