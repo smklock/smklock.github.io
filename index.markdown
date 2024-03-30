@@ -12,7 +12,7 @@ subtitle: " "
     </div>
     <div class="row vcenter">
       <div class="col-8 col-md-5 col-lg-4 offset-2 offset-md-0 offset-lg-1 image-container-center justify-content-center">
-        <img class="mx-auto d-block personal-image" src="{{ site.baseurl }}/assets/images/poems_neu.jpg" alt="Foto Siegfried Klock">
+        <img class="mx-auto d-block personal-image" src="{{ site.baseurl }}/assets/images/startseite_neu.jpeg" alt="Foto Siegfried Klock">
       </div>
       <div class="col-8 col-md-7 col-lg-6 offset-2 offset-md-0">
         <p>
