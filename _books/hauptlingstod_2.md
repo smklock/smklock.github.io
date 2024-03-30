@@ -3,7 +3,7 @@ title: Friesenschwur am Upstalsboom
 subtitle: Der Wahnsinn geht weiter
 link: https://www.bod.de/buchshop/friesenschwur-am-upstalboom-siegfried-klock-9783756215294
 image: hauptlingstod2.jpg
-position: 1
+position: 2
 ---
 Die Fortsetzung meines Erstwerks
 Häuptlingstod am Upstalsboom ist nun fertig.
